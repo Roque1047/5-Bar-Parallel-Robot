@@ -19,9 +19,7 @@ char ssid[] = "name";
 char pass[] = "password";
 uint16_t localPort = 5000;
 uint16_t matlabPort = 5001;
-IPAddress matlabIP(192,168,0,21);
-// IPAddress matlabIP(10,151,143,237);
-// IPAddress matlabIP(10,100,177,237);
+IPAddress matlabIP();
 WiFiUDP Udp;
 
 #define rgbPin 48

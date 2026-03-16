@@ -12,19 +12,19 @@ Computer vision was also implemented to determine whether the end-effector was r
 
 ## MATLAB Interface
 ### Pick-and-place task
-![Pick_and_place](Hardware/)
+![Pick_and_place](MATLAB_Interface/Pick_and_place.png)
 
 ### Path Planning
-![Path_of_an_ellipse](Hardware/)
-![Path_of_a_lemniscate](Hardware/)
-![Path_of_a_parabola](Hardware/)
+![Path_of_an_ellipse](MATLAB_Interface/Path_of_an_ellipse.jpeg)
+![Path_of_a_lemniscate](MATLAB_Interface/Path_of_a_lemniscate.jpeg)
+![Path_of_a_parabola](MATLAB_Interface/Path_of_a_parabola.jpeg)
 
 ## Computer Vision
 ### Position confirmation using computer vision
-![Position_confirmation_using_computer_vision](Hardware/)
+![Position_confirmation_using_computer_vision](MATLAB_Interface/Position_confirmation_using_computer_vision.png)
 
 ### Trajectory tracking
-![Trajectory_tracking](Hardware/)
+![Trajectory_tracking](MATLAB_Interface/Trajectory_tracking.png)
 
 ## Demonstration video
 The video demonstrating the robot can be found at the following link: https://drive.google.com/file/d/1ZcIkjBZ2Dqtx1aF6IGFKVym0vXRFdFLP/view?usp=sharing
@@ -33,11 +33,17 @@ The video demonstrating the robot can be found at the following link: https://dr
 
 The project was developed collaboratively with clearly defined responsibilities:
 
-- **name of the task**  
-  [insert name]
 - **name of the task**
-  [insert name]
+
+  insert name
+  
 - **name of the task**
-  [insert name]
+
+  insert name
+  
+- **name of the task**
+
+  insert name
+  
 ## Mechanical design
 The mechanical CAD was developed in SolidWorks by [insert name]

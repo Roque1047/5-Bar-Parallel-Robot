@@ -28,22 +28,3 @@ Computer vision was also implemented to determine whether the end-effector was r
 
 ## Demonstration video
 The video demonstrating the robot can be found at the following link: https://drive.google.com/file/d/1ZcIkjBZ2Dqtx1aF6IGFKVym0vXRFdFLP/view?usp=sharing
-
-## System Architecture & Team Responsibilities
-
-The project was developed collaboratively with clearly defined responsibilities:
-
-- **name of the task**
-
-  insert name
-  
-- **name of the task**
-
-  insert name
-  
-- **name of the task**
-
-  insert name
-  
-## Mechanical design
-The mechanical CAD was developed in SolidWorks by [insert name]
